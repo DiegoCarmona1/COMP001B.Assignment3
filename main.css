@@ -20,11 +20,11 @@ aside {
 }
 
 footer {
-
+	
 }
 
 header {
-
+	float:none;
 }
 
 img {
@@ -32,11 +32,11 @@ img {
 }
 
 main {
-
+	
 }
 
 nav {
-
+	float: left;
 }
 
 #copyright {
@@ -44,5 +44,5 @@ nav {
 }
 
 #main-container {
-
+	
 }
