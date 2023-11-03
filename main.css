@@ -32,7 +32,8 @@ img {
 }
 
 main {
-	float:none;
+	float:left;
+	float:right;
 }
 
 nav {
