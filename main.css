@@ -45,5 +45,5 @@ nav {
 }
 
 #main-container {
-	max-width: 50%;
+	float:none;
 }
