@@ -45,5 +45,5 @@ nav {
 }
 
 #main-container {
-	float:none;
+	clear:both;
 }
