@@ -32,7 +32,7 @@ img {
 }
 
 main {
-	
+	float:none;
 }
 
 nav {
@@ -44,5 +44,5 @@ nav {
 }
 
 #main-container {
-	
+	float:none;
 }
